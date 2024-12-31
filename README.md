@@ -1,4 +1,4 @@
-Please visit the link [https://wanderlust-project-ijh7.onrender.com/](https://wanderlust-project-ijh7.onrender.com/) 
+Please visit the link [https://wanderlust-project-ijh7.onrender.com/](https://wanderlust-project-ijh7.onrender.com/listings) 
 # Project-Wanderlust
 
  This project was created from local system
