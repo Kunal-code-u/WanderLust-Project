@@ -1,4 +1,4 @@
-# 🌍 Wanderlust – Global Hotel Listing Platform
+# 🌍 Wanderlust – Hotel Listing Platform
 
 > **Wanderlust** is a full‑stack web app (MongoDB · Express · Node · EJS) that lets travelers discover, list, and review hotels worldwide.  
 > It features secure authentication, geocoded locations, image uploads to Cloudinary, and a clean MVC architecture.
