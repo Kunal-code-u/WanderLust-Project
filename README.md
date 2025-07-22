@@ -1,6 +1,7 @@
 # 🌍 Wanderlust – Global Hotel Listing Platform
 
-Wanderlust is a full-stack web application built using the MERN stack (MongoDB, Express.js, Node.js, EJS). It helps travelers explore and list hotels from various cities across the globe, making vacation planning easy and efficient.
+> **Wanderlust** is a full‑stack web app (MongoDB · Express · Node · EJS) that lets travelers discover, list, and review hotels worldwide.  
+> It features secure authentication, geocoded locations, image uploads to Cloudinary, and a clean MVC architecture.
 
 ## 🛠️ Tech Stack
 
