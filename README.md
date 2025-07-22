@@ -1,22 +1,22 @@
-Please visit the link [https://wanderlust-project-ijh7.onrender.com/](https://wanderlust-project-ijh7.onrender.com/listings) 
-# Project-Wanderlust
+# 🌍 Wanderlust – Global Hotel Listing Platform
 
- This project was created from local system
- It's a Full Stack Project based on MERN Development.  This project buliding idea is to list the hotels of different cities globally so that it can easily accessible to    
- your vacation place.
- 
-#  Frontend:
- HTML5 / CSS3 / JAVA SCRIPT
+Wanderlust is a full-stack web application built using the MERN stack (MongoDB, Express.js, Node.js, EJS). It helps travelers explore and list hotels from various cities across the globe, making vacation planning easy and efficient.
 
-# Backend:
-1. NODE.JS
-2. EXPRESS.JS
+## 🛠️ Tech Stack
 
-# Database:
-1. MONGO-DB
+- **Frontend:** EJS, HTML, CSS (Bootstrap/Tailwind)
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB, Mongoose
+- **Authentication:** Passport.js (Local Strategy)
+- **Cloud Storage:** Cloudinary
+- **Other Tools:** Mapbox, Express Middleware
 
-# Framework
-1. BOOTSTRAP
+## ✨ Features
 
-# Other
-  This project also have implemented with  MVC Freamwork / REST API'S / AJAX / 
+- 🏨 Browse hotels by city and category  
+- ➕ Add, edit, and delete hotel listings with image uploads  
+- 🔐 Secure user authentication and authorization  
+- 📍 Location mapping with Mapbox  
+- 📝 Leave reviews for hotels  
+- 📁 Organized MVC folder structure  
+- ☁️ Cloudinary integration for image storage
